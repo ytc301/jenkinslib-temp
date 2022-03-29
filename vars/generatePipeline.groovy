@@ -1,3 +1,4 @@
+// vars/generatePipeline.groovy
 def call(String lang){    
   if (lang == 'java') {
 pipeline {
